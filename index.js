@@ -87,6 +87,7 @@ function getWeatherEmoji(weatherId) {
     } else if (weatherId > 800) {
         return '☁️';
     }
+    
 }
 
 // Function to display error message
