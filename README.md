@@ -16,11 +16,11 @@ A simple weather app built using JavaScript, HTML, and CSS that fetches real-tim
 ## How to Use 📝
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/lahirurupa/WeatherApp-JS.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd WeatherApp-JS
    ```
 3. Open `index.html` in your browser.
 4. Enter a city name and press "Search" to get the weather details. 🌤️
